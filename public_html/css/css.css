@@ -43,10 +43,10 @@
     src: url(../fonts/montserrat-extralight.ttf);
 }
 
-/* .contain {
+.contain {
     width: 100%;
     margin: 0 auto;
-} */
+}
 
 body {
     width: 100%;
